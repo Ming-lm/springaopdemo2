@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="748b66a0-2d82-4c6f-aa2d-7e13afe9bbea" name="Default" comment="spring aop xml 学习" />
+    <list default="true" id="748b66a0-2d82-4c6f-aa2d-7e13afe9bbea" name="Default" comment="spring aop xml 学习">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yujian/service/StudentService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="235">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -121,11 +123,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="353" />
-    <option name="y" value="-28" />
-    <option name="width" value="1380" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -208,7 +209,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547708227382" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547708748227" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -286,7 +287,7 @@
       <workItem from="1547015317151" duration="3638000" />
       <workItem from="1547019630159" duration="633000" />
       <workItem from="1547621425797" duration="2611000" />
-      <workItem from="1547706073225" duration="2133000" />
+      <workItem from="1547706073225" duration="2613000" />
     </task>
     <task id="LOCAL-00001" summary="spring aop xml 学习">
       <created>1547706920511</created>
@@ -299,10 +300,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9015000" />
+    <option name="totallyTimeSpent" value="9495000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -310,10 +311,10 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info content_ui="combo" x="560" y="117" width="246" height="494" id="Project" order="6" visible="true" weight="0.14477211" />
+      <window_info content_ui="combo" x="560" y="117" width="246" height="494" id="Project" order="6" visible="true" weight="0.2987552" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49930844" visible="true" weight="0.33094555" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5006916" side_tool="true" weight="0.33094555" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.21216407" />
       <window_info anchor="bottom" id="Java Enterprise" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
@@ -416,8 +417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yujian/service/StudentService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="235">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
